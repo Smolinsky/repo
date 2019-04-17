@@ -29,5 +29,5 @@
       <input type="submit" class="btn btn-primary width100">
     </div>
   </form>
-</div>
+</div> 
 @endsection

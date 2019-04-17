@@ -30,5 +30,5 @@
     </tbody>
   </table>
   <a class="btn btn-default width100" href="users/create">Create</a>
-  </div>
+  </div> 
 @endsection

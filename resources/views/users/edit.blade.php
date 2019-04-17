@@ -31,5 +31,5 @@
       <button type="submit" class="btn btn-primary width100">Update</button>
     </div>
   </form>
-</div>
+</div> 
 @endsection

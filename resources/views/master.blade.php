@@ -7,7 +7,7 @@
 
         <title>Users create/edit/delete</title>
 
-        <!-- Fonts -->
+        <!-- Fonts  -->
         <link href="{{asset('css/app.css')}}" rel="stylesheet" type="text/css">
     </head>
     <body>
